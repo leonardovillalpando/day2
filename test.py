@@ -1,15 +1,20 @@
+"""
+Corregido V0.02 
+kiki
+"""
+
 def mamalona(a,b,c):
-    return a +b+c
-
-
-
+    return a +b+c 
+  
 for in range(4):
-    print("Leonardo Villal") 
-       
+    print('Hola')
+    print("Leo Villal") 
+
 for in range(4):
     print("Ciro")
     
 for in range(4):
+    print('Verdejo')
     print("Julie ")
 
 
