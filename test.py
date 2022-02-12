@@ -6,3 +6,7 @@ for in range(4):
     
 for in range(4):
     print("Julie ")
+
+
+def sum_of_numbers(a,b):
+    return a+b
